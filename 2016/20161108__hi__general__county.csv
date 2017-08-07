@@ -1,0 +1,253 @@
+county,office,district,party,candidate,votes
+Hawaii,President,,D,"CLINTON, Hillary / KAINE, Tim","41,259"
+Hawaii,President,,R,"TRUMP, Donald J. / PENCE, Michael R.","17,501"
+Hawaii,President,,G,"STEIN, Jill / BARAKA, Ajamu","2,852"
+Hawaii,President,,L,"JOHNSON, Gary / WELD, Bill","2,470"
+Hawaii,President,,C,"CASTLE, Darrell L. / BRADLEY, Scott N.",785
+Hawaii,President,,,Blank Votes,"1,124"
+Hawaii,President,,,Over Votes,30
+Hawaii,U.S. Senate,,D,"SCHATZ, Brian","47,003"
+Hawaii,U.S. Senate,,R,"CARROLL, John","12,766"
+Hawaii,U.S. Senate,,C,"ALLISON, Joy J.","1,695"
+Hawaii,U.S. Senate,,L,"KOKOSKI, Michael A.","1,276"
+Hawaii,U.S. Senate,,A,"GIUFFRE, John M. (Raghu)",275
+Hawaii,U.S. Senate,,,Blank Votes,"2,986"
+Hawaii,U.S. Senate,,,Over Votes,20
+Hawaii,U.S. House,2,D,"GABBARD, Tulsi","51,047"
+Hawaii,U.S. House,2,R,"KAAIHUE, Angela Aulani","11,453"
+Hawaii,U.S. House,2,,Blank Votes,"3,498"
+Hawaii,U.S. House,2,,Over Votes,23
+Hawaii,State House,6,D,"LOWEN, Nicole E.","6,013"
+Hawaii,State House,6,R,"PRATT, Bruce C.","2,896"
+Hawaii,State House,6,,Blank Votes,356
+Hawaii,State House,6,,Over Votes,2
+Hawaii,State House,7,D,"EVANS, Cindy","5,934"
+Hawaii,State House,7,R,"COAKLEY, Jeffrey (Jeff)","3,581"
+Hawaii,State House,7,,Blank Votes,430
+Hawaii,State House,7,,Over Votes,1
+Hawaii,State Senate,1,D,"KAHELE, Kaiali'i","14,488"
+Hawaii,State Senate,1,L,"ARIANOFF, Kimberly","1,816"
+Hawaii,State Senate,1,,Blank Votes,"1,207"
+Hawaii,State Senate,1,,Over Votes,1
+Hawaii,State Senate,2,D,"RUDERMAN, Russell E.","11,664"
+Hawaii,State Senate,2,L,"FOGEL, Frederick F.","2,488"
+Hawaii,State Senate,2,,Blank Votes,"1,062"
+Hawaii,State Senate,2,,Over Votes,4
+Hawaii,State House,1,D,"NAKASHIMA, Mark M.","7,492"
+Hawaii,State House,1,R,"YOUNG, Byron","1,921"
+Hawaii,State House,1,,Blank Votes,779
+Hawaii,State House,1,,Over Votes,3
+Hawaii,State House,3,D,"ONISHI, Richard H.K.","6,184"
+Hawaii,State House,3,G,"PISCIOTTA, Kealoha","1,333"
+Hawaii,State House,3,L,"ARIANOFF, Gregory",813
+Hawaii,State House,3,,Blank Votes,779
+Hawaii,State House,3,,Over Votes,7
+Hawaii,State House,4,D,"SAN BUENAVENTURA, Joy A.","5,846"
+Hawaii,State House,4,N,"JONES, Luana","1,247"
+Hawaii,State House,4,C,"STEPHENS, Moke",648
+Hawaii,State House,4,,Blank Votes,900
+Hawaii,State House,4,,Over Votes,7
+Hawaii,State House,5,D,"CREAGAN, Richard P.","6,176"
+Hawaii,State House,5,L,"LAST, Michael L.","1,766"
+Hawaii,State House,5,,Blank Votes,"1,106"
+Hawaii,State House,5,,Over Votes,0
+Maui,President,,D,"CLINTON, Hillary / KAINE, Tim","33,480"
+Maui,President,,R,"TRUMP, Donald J. / PENCE, Michael R.","13,446"
+Maui,President,,G,"STEIN, Jill / BARAKA, Ajamu","2,390"
+Maui,President,,L,"JOHNSON, Gary / WELD, Bill","2,035"
+Maui,President,,C,"CASTLE, Darrell L. / BRADLEY, Scott N.",594
+Maui,President,,,Blank Votes,980
+Maui,President,,,Over Votes,47
+Maui,U.S. Senate,,D,"SCHATZ, Brian","37,214"
+Maui,U.S. Senate,,R,"CARROLL, John","10,203"
+Maui,U.S. Senate,,C,"ALLISON, Joy J.","1,302"
+Maui,U.S. Senate,,L,"KOKOSKI, Michael A.","1,008"
+Maui,U.S. Senate,,A,"GIUFFRE, John M. (Raghu)",188
+Maui,U.S. Senate,,,Blank Votes,"3,015"
+Maui,U.S. Senate,,,Over Votes,42
+Maui,U.S. House,2,D,"GABBARD, Tulsi","41,046"
+Maui,U.S. House,2,R,"KAAIHUE, Angela Aulani","8,713"
+Maui,U.S. House,2,,Blank Votes,"3,190"
+Maui,U.S. House,2,,Over Votes,23
+Maui,State House,8,,"SOUKI, Joe","6,514"
+Maui,State House,8,,"REBOLLEDO, Gilbert (Gil)","2,575"
+Maui,State House,8,,Blank Votes,680
+Maui,State House,8,,Over Votes,3
+Maui,State House,10,,"MCKELVEY, Angus L.K.","4,716"
+Maui,State House,10,,"MARTEN, Chayne","1,700"
+Maui,State House,10,,Blank Votes,648
+Maui,State House,10,,Over Votes,4
+Maui,State House,11,,"ING, Kaniela","5,835"
+Maui,State House,11,,"PEKUS, Daniel A. (Danny)","2,501"
+Maui,State House,11,,Blank Votes,494
+Maui,State House,11,,Over Votes,1
+Maui,State House,13,,"DECOITE, Lynn","5,824"
+Maui,State House,13,,"NIKHILANANDA, Nick","2,773"
+Maui,State House,13,,Blank Votes,631
+Maui,State House,13,,Over Votes,4
+Kauai,President,,D,"CLINTON, Hillary / KAINE, Tim","16,456"
+Kauai,President,,R,"TRUMP, Donald J. / PENCE, Michael R.","7,574"
+Kauai,President,,G,"STEIN, Jill / BARAKA, Ajamu","1,019"
+Kauai,President,,L,"JOHNSON, Gary / WELD, Bill",982
+Kauai,President,,C,"CASTLE, Darrell L. / BRADLEY, Scott N.",304
+Kauai,President,,,Blank Votes,878
+Kauai,President,,,Over Votes,12
+Kauai,U.S. Senate,,D,"SCHATZ, Brian","19,015"
+Kauai,U.S. Senate,,R,"CARROLL, John","4,745"
+Kauai,U.S. Senate,,C,"ALLISON, Joy J.",704
+Kauai,U.S. Senate,,L,"KOKOSKI, Michael A.",453
+Kauai,U.S. Senate,,A,"GIUFFRE, John M. (Raghu)",59
+Kauai,U.S. Senate,,,Blank Votes,"2,227"
+Kauai,U.S. Senate,,,Over Votes,22
+Kauai,U.S. House,2,D,"GABBARD, Tulsi","20,833"
+Kauai,U.S. House,2,R,"KAAIHUE, Angela Aulani","4,297"
+Kauai,U.S. House,2,,Blank Votes,"2,086"
+Kauai,U.S. House,2,,Over Votes,9
+Kauai,State House,14,,"NAKAMURA, Nadine K.","6,057"
+Kauai,State House,14,,"COMBS, Sandra A. (Sandi)","2,301"
+Kauai,State House,14,,Blank Votes,879
+Kauai,State House,14,,Over Votes,15
+Kauai,State House,16,,"MORIKAWA, Dee","6,088"
+Kauai,State House,16,,"FRANKS, Victoria (Vickie)","1,934"
+Kauai,State House,16,,Blank Votes,834
+Kauai,State House,16,,Over Votes,4
+Honolulu,President,,D,"CLINTON, Hillary / KAINE, Tim","175,696"
+Honolulu,President,,R,"TRUMP, Donald J. / PENCE, Michael R.","90,326"
+Honolulu,President,,G,"STEIN, Jill / BARAKA, Ajamu","10,467"
+Honolulu,President,,L,"JOHNSON, Gary / WELD, Bill","6,476"
+Honolulu,President,,C,"CASTLE, Darrell L. / BRADLEY, Scott N.","2,825"
+Honolulu,President,,,Blank Votes,"5,307"
+Honolulu,President,,,Over Votes,349
+Honolulu,U.S. Senate,,D,"SCHATZ, Brian","203,372"
+Honolulu,U.S. Senate,,R,"CARROLL, John","64,939"
+Honolulu,U.S. Senate,,C,"ALLISON, Joy J.","5,402"
+Honolulu,U.S. Senate,,L,"KOKOSKI, Michael A.","4,072"
+Honolulu,U.S. Senate,,A,"GIUFFRE, John M. (Raghu)",871
+Honolulu,U.S. Senate,,,Blank Votes,"12,535"
+Honolulu,U.S. Senate,,,Over Votes,255
+Honolulu,U.S. House,2,D,"GABBARD, Tulsi","57,922"
+Honolulu,U.S. House,2,R,"KAAIHUE, Angela Aulani","15,205"
+Honolulu,U.S. House,2,,Blank Votes,"4,709"
+Honolulu,U.S. House,2,,Over Votes,79
+Honolulu,U.S. House,1,D,"HANABUSA, Colleen Wakako","145,417"
+Honolulu,U.S. House,1,R,"OSTROV, Shirlene D. (Shirl)","45,958"
+Honolulu,U.S. House,1,L,"YIM, Alan J.K.","6,601"
+Honolulu,U.S. House,1,N,"GRIFFIN, Calvin (G)","4,381"
+Honolulu,U.S. House,1,,Blank Votes,"11,013"
+Honolulu,U.S. House,1,,Over Votes,161
+Honolulu,U.S. House,1-Unexpired Term,D,"HANABUSA, Colleen Wakako","129,083"
+Honolulu,U.S. House,1-Unexpired Term,R,"OSTROV, Shirlene DelaCruz","44,090"
+Honolulu,U.S. House,1-Unexpired Term,D,"KAAIHUE, Angela Aulani","5,885"
+Honolulu,U.S. House,1-Unexpired Term,L,"YIM, Alan J.K.","5,559"
+Honolulu,U.S. House,1-Unexpired Term,D,"KIM, Howard","4,259"
+Honolulu,U.S. House,1-Unexpired Term,D,"CROSS, Peter","3,420"
+Honolulu,U.S. House,1-Unexpired Term,N,"GRIFFIN, Calvin C. (G)","2,824"
+Honolulu,U.S. House,1-Unexpired Term,D,"OCASIO, Javier","1,893"
+Honolulu,U.S. House,1-Unexpired Term,N,"PERRY, Yvonne","1,050"
+Honolulu,U.S. House,1-Unexpired Term,N,"PLOTZENEDER, Peter H.",328
+Honolulu,U.S. House,1-Unexpired Term,,Blank Votes,"14,864"
+Honolulu,U.S. House,1-Unexpired Term,,Over Votes,276
+Honolulu,State Senate,9,D,"CHANG, Stanley","13,433"
+Honolulu,State Senate,9,R,"SLOM, Sam M.","11,985"
+Honolulu,State Senate,9,,Blank Votes,"1,150"
+Honolulu,State Senate,9,,Over Votes,11
+Honolulu,State Senate,10,D,"IHARA, Les, Jr.","13,845"
+Honolulu,State Senate,10,L,"PHILLIPS, Arnold T., II","2,712"
+Honolulu,State Senate,10,,Blank Votes,"3,224"
+Honolulu,State Senate,10,,Over Votes,6
+Honolulu,State Senate,11,D,"TANIGUCHI, Brian T.","14,943"
+Honolulu,State Senate,11,R,"AMSTERDAM, C. Kaui Jochanan","3,416"
+Honolulu,State Senate,11,L,"KENT, Joe",791
+Honolulu,State Senate,11,,Blank Votes,"2,186"
+Honolulu,State Senate,11,,Over Votes,10
+Honolulu,State Senate,13,D,"RHOADS, Karl","10,815"
+Honolulu,State Senate,13,R,"TAM, Rod","3,826"
+Honolulu,State Senate,13,L,"OZOLS, Harry",593
+Honolulu,State Senate,13,,Blank Votes,"1,112"
+Honolulu,State Senate,13,,Over Votes,16
+Honolulu,State Senate,15,D,"WAKAI, Glenn","9,226"
+Honolulu,State Senate,15,L,"KALINOWSKI, Roman","1,711"
+Honolulu,State Senate,15,,Blank Votes,"1,475"
+Honolulu,State Senate,15,,Over Votes,2
+Honolulu,State Senate,19,D,"ESPERO, Will","7,880"
+Honolulu,State Senate,19,R,"FEVELLA, Kurt","4,912"
+Honolulu,State Senate,19,,Blank Votes,694
+Honolulu,State Senate,19,,Over Votes,9
+Honolulu,State Senate,25,D,"THIELEN, Laura H.","14,212"
+Honolulu,State Senate,25,R,"NAGAMINE, Robert K.","6,886"
+Honolulu,State Senate,25,,Blank Votes,"1,260"
+Honolulu,State Senate,25,,Over Votes,7
+Honolulu,State House,17,R,"WARD, Gene","8,260"
+Honolulu,State House,17,D,"ROSS, Karlen","2,858"
+Honolulu,State House,17,,Blank Votes,992
+Honolulu,State House,17,,Over Votes,6
+Honolulu,State House,19,D,"KOBAYASHI, Bertrand (Bert)","5,876"
+Honolulu,State House,19,R,"BISCHOFF, Stephen N.","1,982"
+Honolulu,State House,19,L,"HIGA, Anthony J.L.","1,173"
+Honolulu,State House,19,,Blank Votes,"1,436"
+Honolulu,State House,19,,Over Votes,6
+Honolulu,State House,20,D,"SAY, Calvin K.Y.","6,466"
+Honolulu,State House,20,R,"ALLEN, Julia E.","2,781"
+Honolulu,State House,20,,Blank Votes,"1,137"
+Honolulu,State House,20,,Over Votes,1
+Honolulu,State House,22,D,"BROWER, Tom","4,214"
+Honolulu,State House,22,R,"HENSKI, Kathryn","2,225"
+Honolulu,State House,22,,Blank Votes,664
+Honolulu,State House,22,,Over Votes,1
+Honolulu,State House,24,D,"BELATTI, Della Au","5,505"
+Honolulu,State House,24,R,"FENTON, Larry","1,633"
+Honolulu,State House,24,L,"TIPPENS, Michelle Rose",659
+Honolulu,State House,24,,Blank Votes,"1,175"
+Honolulu,State House,24,,Over Votes,1
+Honolulu,State House,28,D,"MIZUNO, John M.","3,922"
+Honolulu,State House,28,R,"KAAPU, Carole Kauhiwai","1,239"
+Honolulu,State House,28,,Blank Votes,203
+Honolulu,State House,28,,Over Votes,1
+Honolulu,State House,29,D,"HOLT, Daniel","2,989"
+Honolulu,State House,29,R,"COAKLEY, Kaiwiola",883
+Honolulu,State House,29,,Blank Votes,650
+Honolulu,State House,29,,Over Votes,2
+Honolulu,State House,31,D,"JOHANSON, Aaron Ling","4,170"
+Honolulu,State House,31,R,"CHING, Eric H.L.","1,787"
+Honolulu,State House,31,,Blank Votes,436
+Honolulu,State House,31,,Over Votes,6
+Honolulu,State House,34,D,"TAKAYAMA, Gregg","5,611"
+Honolulu,State House,34,R,"AGUSTIN, Jaci","4,197"
+Honolulu,State House,34,,Blank Votes,259
+Honolulu,State House,34,,Over Votes,5
+Honolulu,State House,35,D,"TAKUMI, Roy M.","4,143"
+Honolulu,State House,35,R,"CLEMENTE, Roger","2,013"
+Honolulu,State House,35,,Blank Votes,344
+Honolulu,State House,35,,Over Votes,4
+Honolulu,State House,36,R,"FUKUMOTO CHANG, Beth","6,792"
+Honolulu,State House,36,D,"LEE, Marilyn B.","3,274"
+Honolulu,State House,36,,Blank Votes,267
+Honolulu,State House,36,,Over Votes,6
+Honolulu,State House,37,D,"YAMANE, Ryan I.","8,039"
+Honolulu,State House,37,R,"KUPUKAA, Katherine T.","2,454"
+Honolulu,State House,37,,Blank Votes,667
+Honolulu,State House,37,,Over Votes,3
+Honolulu,State House,40,R,"MCDERMOTT, Bob","3,528"
+Honolulu,State House,40,D,"MARTINEZ, Rose","2,485"
+Honolulu,State House,40,,Blank Votes,440
+Honolulu,State House,40,,Over Votes,4
+Honolulu,State House,41,D,"LOPRESTI, Matthew S. (Matt)","4,289"
+Honolulu,State House,41,R,"JEREMIAH, Bryan E.","2,905"
+Honolulu,State House,41,,Blank Votes,642
+Honolulu,State House,41,,Over Votes,5
+Honolulu,State House,43,R,"TUPOLA, Andria","3,859"
+Honolulu,State House,43,D,"ELI, Stacelynn K.M.","1,932"
+Honolulu,State House,43,,Blank Votes,133
+Honolulu,State House,43,,Over Votes,9
+Honolulu,State House,44,D,"GATES, Cedric Asuega","3,346"
+Honolulu,State House,44,R,"PA'ALUHI, Marc K.","1,991"
+Honolulu,State House,44,,Blank Votes,121
+Honolulu,State House,44,,Over Votes,5
+Honolulu,State House,46,D,"OSHIRO, Marcus R.","4,806"
+Honolulu,State House,46,R,"NOLTIE, Scott A.","1,277"
+Honolulu,State House,46,,Blank Votes,270
+Honolulu,State House,46,,Over Votes,6
+Honolulu,State House,47,D,"QUINLAN, Sean","3,542"
+Honolulu,State House,47,R,"POUHA, Feki","3,434"
+Honolulu,State House,47,,Blank Votes,288
+Honolulu,State House,47,,Over Votes,10
