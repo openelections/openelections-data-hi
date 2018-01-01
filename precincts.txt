@@ -8,6 +8,7 @@ County of Hawaii,01-06,01-06,"Kalanianaole Elementary & Intermediate School, Caf
 County of Hawaii,01-07,01-07,"Puueo Multi-Culture Center, Hall",145 Wainaku St
 County of Hawaii,01-08,01-08,"Ernest B DeSilva Elementary School, Cafeteria",278 Ainako Ave
 County of Hawaii,01-09,01-09,"Kaumana Elementary School, Cafeteria",1710 Kaumana Dr
+County of Hawaii,01-10,01-10,"Kaumana Elementary School, Cafeteria",1710 Kaumana Dr
 County of Hawaii,02-01,02-01,"Hilo High School, Cafeteria",556 Waianuenue Ave
 County of Hawaii,02-02,02-02,Edith Kanakaole Tennis Stadium,350 Kalanikoa St
 County of Hawaii,02-03,02-03,"Keaukaha Elementary School, Cafeteria",240 Desha Ave
