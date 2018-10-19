@@ -1,6 +1,6 @@
  # -*- coding: utf-8 -*-
 
-import unicodecsv as csv
+import csv
 import requests
 
 OFFICES = ['President', 'Governor', 'Representative', 'Senator', 'SELECT A PARTY']
@@ -11,14 +11,16 @@ precincts = list(csvfile)
 
 def general():
     results = []
-    url = "http://files.hawaii.gov/elections/files/results/2010/general/media.txt"
+    url = "http://files.hawaii.gov/elections/files/results/2008/general/media.txt"
     r = requests.get(url)
     decoded_content = r.content
     reader = csv.DictReader(decoded_content.splitlines(), delimiter=',', encoding='utf-8')
     for row in reader:
-        if any(x in row['Contest_title'] for x in OFFICES):
-            county = next((p['COUNTY'] for p in precincts if row['Precinct_Name'] == p['PRECINCT']), None)
-            office = row['Contest_title']
+        if any(x in row['Contest Title'] for x in OFFICES):
+            if row['Contest Title'] == 'CON AMEND: Age Qualification for Governor':
+                continue
+            county = next((p['COUNTY'] for p in precincts if row['Precinct Name'] == p['PRECINCT']), None)
+            office = row['Contest Title']
             if 'Dist' in office:
                 office, district = office.split(', Dist ')
                 if district == 'I':
@@ -29,23 +31,24 @@ def general():
                     district = "2"
             else:
                 district = None
-            party, candidate = row['Candidate_name'].split(') ')
-            party = party.replace('(','')
-            votes = int(row['Absentee_votes']) + int(row['Early_votes']) + int(row['Election_Votes'])
-            results.append([county, row['Precinct_Name'], office, district, party, candidate, row['Absentee_votes'], row['Early_votes'], row['Election_Votes'], votes])
+            party, candidate = row['Candidate Name'].split(') ')
+            party = row['Candidate Party']
+            votes = row['Total Votes']
+            results.append([county, row['Precinct Name'], office, district, party, candidate, None, None, None, row['Total Votes']])
+            for col in ['Total Blank Votes', 'Total Over Votes', 'Total Ballots']:
+                results.append([county, row['Precinct Name'], office, district, None, col, None, None, None, row[col]])
 
-
-    with open('2010/20101102__hi__general__precinct.csv','wb') as csvfile:
+    with open('2008/20081104__hi__general__precinct.csv','wb') as csvfile:
             csvwriter = csv.writer(csvfile, encoding='utf-8')
             csvwriter.writerow(['county','precinct', 'office', 'district', 'party', 'candidate', 'absentee', 'early_votes', 'election_day', 'votes'])
             csvwriter.writerows(results)
 
 def primary():
     results = []
-    url = "http://files.hawaii.gov/elections/files/results/2010/primary/media.txt"
+    url = "https://elections.hawaii.gov/wp-content/results/media.txt"
     r = requests.get(url)
-    decoded_content = r.content
-    reader = csv.DictReader(decoded_content.splitlines(), delimiter=',', encoding='utf-8')
+    decoded_content = r.text
+    reader = csv.DictReader(decoded_content.splitlines(), delimiter=',', quotechar='"')
     for row in reader:
         if any(x in row['Contest_title'] for x in OFFICES):
             county = next((p['COUNTY'] for p in precincts if row['Precinct_Name'] == p['PRECINCT']), None)
@@ -68,11 +71,11 @@ def primary():
             results.append([county, row['Precinct_Name'], office, district, party, row['Candidate_name'], row['Absentee_votes'], row['Early_votes'], row['Election_Votes'], votes])
 
 
-    with open('2010/20100918__hi__primary__precinct.csv','wb') as csvfile:
-            csvwriter = csv.writer(csvfile, encoding='utf-8')
+    with open('2018/20180811__hi__primary__precinct.csv','w') as csvfile:
+            csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_NONNUMERIC)
             csvwriter.writerow(['county','precinct', 'office', 'district', 'party', 'candidate', 'absentee', 'early_votes', 'election_day', 'votes'])
             csvwriter.writerows(results)
 
 if __name__ == "__main__":
-    general()
+#    general()
     primary()
