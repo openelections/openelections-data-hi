@@ -3,7 +3,7 @@
 import csv
 import requests
 
-OFFICES = ['President', 'Governor', 'Representative', 'Senator', 'SELECT A PARTY']
+OFFICES = ['President', 'Governor', 'Representative', 'State Senator', 'SELECT A PARTY', 'Lieutenant Governor', 'U.S. Senator']
 
 precinct_file = open("precincts.txt", "r")
 csvfile = csv.DictReader(precinct_file, delimiter=',')
@@ -16,27 +16,24 @@ def general():
     decoded_content = r.content
     reader = csv.DictReader(decoded_content.splitlines(), delimiter=',', encoding='utf-8')
     for row in reader:
-        if any(x in row['Contest Title'] for x in OFFICES):
-            if row['Contest Title'] == 'CON AMEND: Age Qualification for Governor':
-                continue
-            county = next((p['COUNTY'] for p in precincts if row['Precinct Name'] == p['PRECINCT']), None)
-            office = row['Contest Title']
-            if 'Dist' in office:
-                office, district = office.split(', Dist ')
-                if district == 'I':
-                    district = "1"
-                elif district == 'I Vacancy':
-                    district = "1 Unexpired"
-                elif district == 'II':
-                    district = "2"
-            else:
-                district = None
-            party, candidate = row['Candidate Name'].split(') ')
-            party = row['Candidate Party']
-            votes = row['Total Votes']
-            results.append([county, row['Precinct Name'], office, district, party, candidate, None, None, None, row['Total Votes']])
-            for col in ['Total Blank Votes', 'Total Over Votes', 'Total Ballots']:
-                results.append([county, row['Precinct Name'], office, district, None, col, None, None, None, row[col]])
+        county = next((p['COUNTY'] for p in precincts if row['Precinct Name'] == p['PRECINCT']), None)
+        office = row['Contest Title']
+        if 'Dist' in office:
+            office, district = office.split(', Dist ')
+            if district == 'I':
+                district = "1"
+            elif district == 'I Vacancy':
+                district = "1 Unexpired"
+            elif district == 'II':
+                district = "2"
+        else:
+            district = None
+        party, candidate = row['Candidate Name'].split(') ')
+        party = row['Candidate Party']
+        votes = row['Total Votes']
+        results.append([county, row['Precinct Name'], office, district, party, candidate, None, None, None, row['Total Votes']])
+        for col in ['Total Blank Votes', 'Total Over Votes', 'Total Ballots']:
+            results.append([county, row['Precinct Name'], office, district, None, col, None, None, None, row[col]])
 
     with open('2008/20081104__hi__general__precinct.csv','wb') as csvfile:
             csvwriter = csv.writer(csvfile, encoding='utf-8')
