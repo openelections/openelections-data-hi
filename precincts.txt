@@ -9,11 +9,19 @@ County of Hawaii,01-07,01-07,"Puueo Multi-Culture Center, Hall",145 Wainaku St
 County of Hawaii,01-08,01-08,"Ernest B DeSilva Elementary School, Cafeteria",278 Ainako Ave
 County of Hawaii,01-09,01-09,"Kaumana Elementary School, Cafeteria",1710 Kaumana Dr
 County of Hawaii,01-10,01-10,"Kaumana Elementary School, Cafeteria",1710 Kaumana Dr
+County of Hawaii,01-11,01-11,"Kulaimano Community Center, Hall",28-2892 Alia St
+County of Hawaii,01-12,01-12,"Kalanianaole Elementary & Intermediate School, Cafeteria",27-330 Mamalahoa Hwy
+County of Hawaii,01-13,01-13,"Puueo Multi-Culture Center, Hall",145 Wainaku St
+County of Hawaii,01-14,01-14,"Hilo Union Elem School, Cafeteria",556 Waianuenue Ave
+County of Hawaii,01-15,01-15,"Hale Ho'onanea Bed & Breakfast",59-513 Ala Kahua Dr
 County of Hawaii,02-01,02-01,"Hilo High School, Cafeteria",556 Waianuenue Ave
 County of Hawaii,02-02,02-02,Edith Kanakaole Tennis Stadium,350 Kalanikoa St
 County of Hawaii,02-03,02-03,"Keaukaha Elementary School, Cafeteria",240 Desha Ave
 County of Hawaii,02-04,02-04,"Waiakea Elementary School, Cafeteria",180 W Puainako St
 County of Hawaii,02-05,02-05,"Waiakea High School, Cafeteria",155 W Kawili St
+County of Hawaii,02-06,02-06,"Keaukaha Elementary School, Cafeteria",240 Desha Ave
+County of Hawaii,02-07,02-07,UH-Hilo Campus Ctr,
+County of Hawaii,02-08,02-08,Chiefess Kapiolani Elem Sch,966 Kilauea Ave
 County of Hawaii,03-01,03-01,AJA Memorial Hall,361 Haihai St
 County of Hawaii,03-02,03-02,"Keaau Elementary School, Cafeteria",16-680 Keeau-Pahoa Rd
 County of Hawaii,03-03,03-03,Vote By Mail Precinct,
@@ -21,10 +29,15 @@ County of Hawaii,03-04,03-04,"Keaau Middle School, Cafeteria",16-565 Keaau-Pahoa
 County of Hawaii,03-05,03-05,"Mountain View Elementary School, Cafeteria",18-1235 Volcano Rd
 County of Hawaii,03-06,03-06,"Cooper Center, Community Center",19-4030 Wright Rd
 County of Hawaii,03-07,03-07,"Kau High School, Cafeteria",96-3150 Pikake St
+County of Hawaii,03-08,03-08,AJA Memorial Hall,361 Haihai St
 County of Hawaii,04-01,04-01,Hawaiian Paradise Park Community Center,Makuu Dr
 County of Hawaii,04-02,04-02,"Keonepoko Elementary School, Cafeteria",15-890 Kahakai Blvd
 County of Hawaii,04-03,04-03,"Pahoa Community Center, Community Center",15-3022 Kauhale St
 County of Hawaii,04-04,04-04,"Pahoa High/Intermediate School, Cafeteria",15-3038 Pahoa Village Rd
+County of Hawaii,04-05,04-05,"Pahoa Community Center, Community Center",15-3022 Kauhale St
+County of Hawaii,04-06,04-06,Church on a Sure Foundation,
+County of Hawaii,04-07,04-07,Kalani Honua,
+County of Hawaii,04-08,04-08,Ainaloa Longhouse,
 County of Hawaii,05-01,05-01,"Naalehu Elementary School, Cafeteria",95-5545 Mamalahoa Hwy
 County of Hawaii,05-02,05-02,Ocean View Community Center,92-8924 Leilani Cir
 County of Hawaii,05-03,05-03,"Milolii Halau, Pavilion",Milolii
@@ -33,16 +46,26 @@ County of Hawaii,05-05,05-05,"St Benedict Catholic Church, Lanai",84-5140 Painte
 County of Hawaii,05-06,05-06,"Konawaena Elementary School, Cafeteria",81-901 Onouli Rd
 County of Hawaii,05-07,05-07,"Konawaena High School, Cafeteria",81-1043 Konawaena Sch Rd
 County of Hawaii,05-08,05-08,Kona Vistas Rec Center,76-6350 Pualani St
+County of Hawaii,05-09,05-09,"St Benedict Catholic Church, Lanai",84-5140 Painted Church Rd
+County of Hawaii,05-10,05-10,MiloliiHonaunau Elem Sch,
+County of Hawaii,05-11,05-11,"Konawaena High School, Cafeteria",81-1043 Konawaena Sch Rd
+County of Hawaii,05-12,05-12,"Konawaena Elementary School, Cafeteria",81-901 Onouli Rd
 County of Hawaii,06-01,06-01,"Holualoa Elementary School, Cafeteria",76-5957 Mamalahoa Hwy
 County of Hawaii,06-02,06-02,"Kahakai Elementary School, Cafeteria",76-147 Royal Poinciana Dr
 County of Hawaii,06-03,06-03,Kekuaokalani Gym at Kailua Park,75-5500 Kuakini Hwy
 County of Hawaii,06-04,06-04,"Kealakehe High School, Cafeteria",74-5000 Puohulihuli St
 County of Hawaii,06-05,06-05,Kona Palisades Community Center,73-1073 Ka Imi Nani Dr.
+County of Hawaii,06-06,06-06,Kealakehe Elem Sch,
+County of Hawaii,06-07,06-07,Kailua View Estates Recreation Ctr,
+County of Hawaii,06-08,06-08,"Kealakehe Intermediate School, Cafeteria",74-5062 Onipa`a St
 County of Hawaii,07-01,07-01,"Kealakehe Intermediate School, Cafeteria",74-5062 Onipa`a St
 County of Hawaii,07-02,07-02,"Waikoloa Elementary School, Cafeteria",68-1730 Hooko St
 County of Hawaii,07-03,07-03,"Kohala High & Elementary School, Cafeteria",54-3611 Akoni Pule Hwy
 County of Hawaii,07-04,07-04,"Waimea Elementary School, Cafeteria",67-1225 Mamalahoa Hwy
 County of Hawaii,07-05,07-05,"Waimea Civic Center, Conference Room",67-5189 Kamamalu St
+County of Hawaii,07-06,07-06,"Waimea Civic Center, Conference Room",67-5189 Kamamalu St
+County of Hawaii,07-07,07-07,Waimea New Hope Church,
+County of Hawaii,07-08,07-08,Puuanahulu Community Ctr,
 County of Maui,08-01,08-01,"Waihee Elementary School, Cafeteria",2125 Kahekili Hwy
 County of Maui,08-02,08-02,Velma McWayne Santos Community Center,395 Waena St
 County of Maui,08-03,08-03,"Baldwin High School, Cafeteria",1650 Kaahumanu Ave
@@ -55,11 +78,15 @@ County of Maui,09-01,09-01,"Kahului Elementary School, Cafeteria",410  S Hina Av
 County of Maui,09-02,09-02,"Maui Waena Intermediate School, Cafeteria",795 Onehee Ave
 County of Maui,09-03,09-03,"Lihikai Elementary School, Cafeteria",335 S Papa Ave
 County of Maui,09-04,09-04,"Maui High School, Gym",660 S Lono Ave
+County of Maui,09-05,09-05,"Kahului Elementary School, Cafeteria",410  S Hina Ave
+County of Maui,09-06,09-06,Kahului Hongwanji Mission,
+County of Maui,09-07,09-07,Kaunoa Senior Citizen Ctr,
 County of Maui,10-01,10-01,"Kenolio Recreation Complex, Cafeteria",131 S Kihei Rd
 County of Maui,10-02,10-02,"King Kamehameha III Elementary School, Cafeteria",611 Front St
 County of Maui,10-03,10-03,"Lahaina Intermediate School, Cafeteria",871 Lahainaluna Rd
 County of Maui,10-04,10-04,"Princess Nahienaena Elementary School, Cafeteria",816 Niheu St
 County of Maui,10-05,10-05,"Lahaina Civic Center, Meeting Room",1840 Honoapiilani Hwy
+County of Maui,10-06,10-06,Honolua United Methodist Church,
 County of Maui,11-01,11-01,"Trinity Episcopal Church by the Sea, Hall",100 Kulanihakoi St
 County of Maui,11-02,11-02,"Kamalii Elementary School, Cafeteria",180 Alanui Ke Alii St
 County of Maui,11-03,11-03,Kihei Community Center,303 E Lipoa St
@@ -70,6 +97,7 @@ County of Maui,12-03,12-03,"Pukalani Elementary School, Cafeteria",2945 Iolani S
 County of Maui,12-04,12-04,"Mayor Hannibal Tavares Community Center, Hall",91 Pukalani St
 County of Maui,12-05,12-05,Kula Community Center,4355 Lower Kula Rd
 County of Maui,12-06,12-06,"Kaunoa Senior Citizen Center, Meeting Room",401 Alakapa Pl
+County of Maui,12-07,12-07,Ulupalakua Ranch,
 County of Maui,13-01,13-01,Paia Community Center,252 Hana Hwy
 County of Maui,13-02,13-02,Haiku Community Center,2830 Hana Hwy
 County of Maui,13-03,13-03,"Hana High/Elementary School, Cafeteria",4111 Hana Hwy
@@ -79,6 +107,9 @@ County of Maui,13-06,13-06,"Kaunakakai School, Cafeteria",30 Ailoa St
 County of Maui,13-07,13-07,Maunaloa Community Center,140 Maunaloa Rd
 County of Maui,13-08,13-08,Kualapuu Community Center,Alahula St
 County of Maui,13-09,13-09,"Kalaupapa Settlement, Hall",County of Kalawao
+County of Maui,13-10,13-10,Maunaloa Elem Sch,
+County of Maui,13-11,13-11,Kualapuu Community Ctr,
+County of Maui,13-12,13-12,Kalaupapa Settlement,
 County of Kauai,14-01,14-01,"Hanalei Elementary School, Cafeteria",5-5415 Kuhio Hwy
 County of Kauai,14-02,14-02,"Kilauea Elementary School, Cafeteria",2440 Kolo Rd
 County of Kauai,14-03,14-03,"Anahola Hawaiian Homes Clubhouse, Hall",Kalalea Rd
@@ -94,30 +125,47 @@ County of Kauai,16-02,16-02,"Kalaheo Neighborhood Center, Gym",4480 Papalina Rd
 County of Kauai,16-03,16-03,"Hanapepe Recreation Center, Meeting Room",4451 Puolo Rd
 County of Kauai,16-04,16-04,"Waimea Neighborhood Center, Meeting Room",4556 Makeke Rd
 County of Kauai,16-05,16-05,"Kekaha Elementary School, Cafeteria",8140 Kekaha Rd
+County of Kauai,16-07,16-07,Niihau Elem/High Sch,
 City & County of Honolulu,17-01,17-01,"Kaiser High School, Cafeteria",511 Lunalilo Home Rd
 City & County of Honolulu,17-02,17-02,"Koko Head Elementary School, Cafeteria",189 Lunalilo Home Rd
 City & County of Honolulu,17-03,17-03,"Kamiloiki Elementary School, Cafeteria",7788 Hawaii Kai Dr
 City & County of Honolulu,17-04,17-04,"Hahaione Elementary School, Cafeteria",595 Pepeekeo St
+City & County of Honolulu,17-05,17-05,"Hahaione Elementary School, Cafeteria",595 Pepeekeo St
+City & County of Honolulu,17-06,17-06,"Hahaione Elementary School, Cafeteria",595 Pepeekeo St
+City & County of Honolulu,17-07,17-07,"Hahaione Elementary School, Cafeteria",595 Pepeekeo St
 City & County of Honolulu,18-01,18-01,"Holy Trinity Church, Gym",5919 Kalanianaole Hwy
 City & County of Honolulu,18-02,18-02,"Niu Valley Middle School, Cafeteria",310 Halemaumau St
 City & County of Honolulu,18-03,18-03,"Aina Haina Elementary School, Cafeteria",801 W Hind Dr
 City & County of Honolulu,18-04,18-04,"Kalani High School, Cafeteria",4680 Kalanianaole Hwy
+City & County of Honolulu,18-05,18-05,"Kalani High School, Cafeteria",4680 Kalanianaole Hwy
+City & County of Honolulu,18-06,18-06,"Kalani High School, Cafeteria",4680 Kalanianaole Hwy
+City & County of Honolulu,18-07,18-07,"Kalani High School, Cafeteria",4680 Kalanianaole Hwy
 City & County of Honolulu,19-01,19-01,"Kahala Elementary School, Cafeteria",4559 Kilauea Ave
 City & County of Honolulu,19-02,19-02,"Waikiki Elementary School, Cafeteria",3710 Leahi Ave
 City & County of Honolulu,19-03,19-03,"Waialae Elementary School, Cafeteria",1045 19th Ave
 City & County of Honolulu,19-04,19-04,"HI Center for Deaf/Blind, Cafeteria",3440 Leahi Ave
 City & County of Honolulu,19-05,19-05,"Aliiolani Elementary School, Cafeteria",1240 7th Ave
+City & County of Honolulu,19-06,19-06,"Aliiolani Elementary School, Cafeteria",1240 7th Ave
+City & County of Honolulu,19-07,19-07,"Aliiolani Elementary School, Cafeteria",1240 7th Ave
 City & County of Honolulu,20-01,20-01,"Wilson Elementary School, Cafeteria",4945 Kilauea Ave
 City & County of Honolulu,20-02,20-02,"Anuenue School, Cafeteria",2528 10th Ave
 City & County of Honolulu,20-03,20-03,"Jarrett Middle School, Cafeteria",1903 Palolo Ave
 City & County of Honolulu,20-04,20-04,"Hokulani Elementary School, Cafeteria",2940 Kamakini St
+City & County of Honolulu,20-05,20-05,"Hokulani Elementary School, Cafeteria",2940 Kamakini St
+City & County of Honolulu,20-06,20-06,"Hokulani Elementary School, Cafeteria",2940 Kamakini St
 City & County of Honolulu,21-01,21-01,"Jefferson Elementary School, Cafeteria",324 Kapahulu Ave
 City & County of Honolulu,21-02,21-02,"Kaimuki High School, Cafeteria",2705 Kaimuki Ave
 City & County of Honolulu,21-03,21-03,"Ala Wai Elementary School, Cafeteria",503 Kamoku St
 City & County of Honolulu,21-04,21-04,"Lunalilo Elementary School, Cafeteria",810 Pumehana St
+City & County of Honolulu,21-05,21-05,"Lunalilo Elementary School, Cafeteria",810 Pumehana St
+City & County of Honolulu,21-06,21-06,"Lunalilo Elementary School, Cafeteria",810 Pumehana St
 City & County of Honolulu,22-01,22-01,"Jefferson Elementary School, Cafeteria",324 Kapahulu Ave
 City & County of Honolulu,22-02,22-02,"Ala Wai Community Park, Lounge",2015 Kapiolani Blvd
 City & County of Honolulu,22-03,22-03,"McKinley Community School for Adults, Room 110",634 Pensacola St
+City & County of Honolulu,22-04,22-04,"McKinley Community School for Adults, Room 110",634 Pensacola St
+City & County of Honolulu,22-05,22-05,"McKinley Community School for Adults, Room 110",634 Pensacola St
+City & County of Honolulu,22-06,22-06,"McKinley Community School for Adults, Room 110",634 Pensacola St
+City & County of Honolulu,22-07,22-07,"McKinley Community School for Adults, Room 110",634 Pensacola St
 City & County of Honolulu,23-01,23-01,Vote By Mail Precinct,
 City & County of Honolulu,23-02,23-02,"University Laboratory School, Cafeteria",1776 University Ave
 City & County of Honolulu,23-03,23-03,"Washington Middle School, Cafeteria",1633 S King St
@@ -127,11 +175,15 @@ City & County of Honolulu,24-01,24-01,"Kaahumanu Elementary School, Cafeteria",1
 City & County of Honolulu,24-02,24-02,"Makiki District Park, Agee Hall",1527 Keeaumoku St
 City & County of Honolulu,24-03,24-03,"Christ United Methodist Church, Meeting Room",1639 Keeaumoku St
 City & County of Honolulu,24-04,24-04,"Lincoln Elementary School, Cafeteria",615 Auwaiolimu St
+City & County of Honolulu,24-05,24-05,"Lincoln Elementary School, Cafeteria",615 Auwaiolimu St
+City & County of Honolulu,24-06,24-06,"Lincoln Elementary School, Cafeteria",615 Auwaiolimu St
 City & County of Honolulu,25-01,25-01,Vote By Mail Precinct,
 City & County of Honolulu,25-02,25-02,"Stevenson Middle School, Cafeteria",1202 Prospect St
 City & County of Honolulu,25-03,25-03,"Lincoln Elementary School, Cafeteria",615 Auwaiolimu St
 City & County of Honolulu,25-04,25-04,"Kawananakoa Middle School, Cafeteria",49 Funchal St
 City & County of Honolulu,25-05,25-05,"Nuuanu Elementary School, Cafeteria",3055 Puiwa Ln
+City & County of Honolulu,25-06,25-06,"Nuuanu Elementary School, Cafeteria",3055 Puiwa Ln
+City & County of Honolulu,25-07,25-07,"Nuuanu Elementary School, Cafeteria",3055 Puiwa Ln
 City & County of Honolulu,26-01,26-01,"Washington Middle School, Cafeteria",1633 S King St
 City & County of Honolulu,26-02,26-02,Vote By Mail Precinct,
 City & County of Honolulu,26-03,26-03,"McKinley High School, Cafeteria",1039 S King St
@@ -144,14 +196,20 @@ City & County of Honolulu,27-02,27-02,"Likelike Elementary School, Cafeteria",16
 City & County of Honolulu,27-03,27-03,"Maemae Elementary School, Cafeteria",319 Wyllie St
 City & County of Honolulu,27-04,27-04,"Lanakila Elementary School, Cafeteria",717 N Kuakini St
 City & County of Honolulu,27-05,27-05,Vote By Mail Precinct,
+City & County of Honolulu,27-06,27-06,Vote By Mail Precinct,
+City & County of Honolulu,27-07,27-07,Vote By Mail Precinct,
+City & County of Honolulu,27-08,27-08,Vote By Mail Precinct,
 City & County of Honolulu,28-01,28-01,"Kaewai Elementary School, Cafeteria",1929 Kamehameha IV Rd
 City & County of Honolulu,28-02,28-02,"Kapalama Elementary School, Cafeteria",1601 N School St
 City & County of Honolulu,28-03,28-03,"Kalihi Uka Elementary School, Cafeteria",2411 Kalihi St
 City & County of Honolulu,28-04,28-04,"Kaewai Elementary School, Cafeteria",1929 Kamehameha IV Rd
+City & County of Honolulu,28-05,28-05,"Kaewai Elementary School, Cafeteria",1929 Kamehameha IV Rd
+City & County of Honolulu,28-06,28-06,"Kaewai Elementary School, Cafeteria",1929 Kamehameha IV Rd
 City & County of Honolulu,29-01,29-01,"Central Middle School, Cafeteria",1302 Queen Emma St
 City & County of Honolulu,29-02,29-02,"Kaiulani Elementary School, Cafeteria",783 N King St
 City & County of Honolulu,29-03,29-03,"Farrington High School, Cafeteria",1564 N King St
 City & County of Honolulu,29-04,29-04,"Kapalama Elementary School, Cafeteria",1601 N School St
+City & County of Honolulu,29-05,29-05,"Kapalama Elementary School, Cafeteria",1601 N School St
 City & County of Honolulu,30-01,30-01,"Fern Elementary School, Cafeteria",1121 Middle St
 City & County of Honolulu,30-02,30-02,"Fern Elementary School, Cafeteria",1121 Middle St
 City & County of Honolulu,30-03,30-03,"Aliamanu Middle School, Cafeteria",3271 Salt Lake Blvd
